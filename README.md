@@ -5,6 +5,6 @@ Aplikasi di mana user dapat upload image dan memberikan effect grayscale atau bl
 Code dapat dilihat dalam CompGraph -> src -> view -> ImageConverterApp.java
 Dibuat dengan JavaFX
 
-Nama : Joshua Emmanuel Mulia
-NIM : 2602175992
+Nama : Joshua Emmanuel Mulia\n
+NIM : 2602175992\n
 Kelas : LA01
